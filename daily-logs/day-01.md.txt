@@ -1,0 +1,15 @@
+# Day 01 – Sept 15, 2026
+
+## Topics covered
+- Intro to Data Analytics with Spreadsheets (course overview, assessment structure, setup)
+- Using AI (Gemini) as an analytical assistant in spreadsheet workflows
+- Data sources and how to access them
+- Spreadsheets interface (Google Sheets) basics
+- Importing data from files into Sheets, and common import errors
+
+## Key takeaways
+-Learned that data can come from files, databases, APIs, or manual entry, and each has different import considerations
+-AI tools like Gemini can assist analysis but I still need to understand the 
+  underlying logic, not just accept AI output blindly
+-Import errors often come from formatting mismatches — encoding, delimiters, or header row issues
+
